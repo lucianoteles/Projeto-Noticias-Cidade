@@ -1,4 +1,4 @@
-<img src="imagens/logo.png">
+
 <h1 align="center">Notícias Cidade - seu site de notícias</h1>
 <p align="center">Projeto <strong>Notícias Cidade</strong> Desenvolvido durante o curso "Desenvolvimento Web Completo 2020" ministrado por  Jorge Sant Ana e Jamilton Damasceno por meio da plataforma de ensino da <a href ="https://www.udemy.com/">Udemy<a></p>
 
