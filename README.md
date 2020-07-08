@@ -4,7 +4,7 @@
 
 <p>Este projeto teve como objetivo criar um Front-end utilizando HTML e CSS para um portal de notícias.</p>
     
-## Tecnologias utilizadas:
+## Tecnologias utilizadas
 
 - [Html](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/)
@@ -16,6 +16,6 @@
 <img src="imagens/Captura3.PNG">
 <img src="imagens/Captura4.PNG">
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença [MIT](./LICENSE). Veja o arquivo LICENSE para mais detalhes.
